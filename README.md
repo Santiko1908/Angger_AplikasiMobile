@@ -1,6 +1,6 @@
-**Nama:** Angger Santiko
+**Nama :** Angger Santiko
 
-**NIM** 1124160099
+**NIM :** 1124160099
 
 
 ```dart
