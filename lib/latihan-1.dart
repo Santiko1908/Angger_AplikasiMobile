@@ -1,4 +1,7 @@
+Nama : Angger Santiko
 
+NIM : 1124160099
+  
 void main() {
   percabangan();
   guardClause();
